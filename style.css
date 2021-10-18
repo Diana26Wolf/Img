@@ -1,0 +1,30 @@
+  .heading
+  {
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 40px;
+  }
+  hr{
+    width:30%;
+    height: 3px;
+    background-color: white;
+  }
+  #acc, #name{
+    color: red;
+
+  }
+ body{
+   background: url("background.jpg");
+   font-family: 'Noto Sans Mono', monospace;
+ }
+ .footer{
+   color: white;
+   bottom: 0px;
+   position: fixed;
+   right:0px ;
+ }
+ canvas{
+   margin-top: 160px;
+ }
